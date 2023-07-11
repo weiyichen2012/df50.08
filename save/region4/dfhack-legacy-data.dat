@@ -2,12 +2,12 @@
 	{
 		"i" : 
 		[
-			0,
+			1,
 			6000,
 			1,
-			4,
+			10,
 			2,
-			4,
+			10,
 			2
 		],
 		"k" : "autobutcher/config",
@@ -30,7 +30,7 @@
 	{
 		"i" : 
 		[
-			0,
+			1,
 			6000,
 			-1,
 			-1,
@@ -2533,7 +2533,20 @@
 		"k" : "buildingplan/filter",
 		"s" : "//0/0/0/0|"
 	},
-	null,
+	{
+		"i" : 
+		[
+			6,
+			-1,
+			-1,
+			0,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
 	{
 		"i" : 
 		[
@@ -2548,8 +2561,34 @@
 		"k" : "buildingplan/filter",
 		"s" : "//0/5/0/5|"
 	},
-	null,
-	null,
+	{
+		"i" : 
+		[
+			13,
+			1,
+			-1,
+			0,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			48,
+			-1,
+			-1,
+			0,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
 	{
 		"i" : 
 		[
@@ -2578,62 +2617,75 @@
 		"k" : "buildingplan/filter",
 		"s" : "//0/0/0/0|"
 	},
-	null,
 	{
 		"i" : 
 		[
-			67,
+			13,
+			10,
+			-1,
 			0,
-			-1,
-			-1,
 			-1,
 			-1,
 			-1
 		],
-		"k" : "buildingplan/building",
-		"s" : "56|//0/5/0/5|"
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
 	},
 	{
 		"i" : 
 		[
-			68,
+			13,
+			12,
+			-1,
 			0,
-			-1,
-			-1,
 			-1,
 			-1,
 			-1
 		],
-		"k" : "buildingplan/building",
-		"s" : "56|//0/5/0/5|"
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
 	},
 	{
 		"i" : 
 		[
-			69,
+			13,
+			19,
+			-1,
 			0,
-			-1,
-			-1,
 			-1,
 			-1,
 			-1
 		],
-		"k" : "buildingplan/building",
-		"s" : "56|//0/5/0/5|"
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
 	},
 	{
 		"i" : 
 		[
-			70,
+			35,
+			-1,
+			-1,
 			0,
-			-1,
-			-1,
 			-1,
 			-1,
 			-1
 		],
-		"k" : "buildingplan/building",
-		"s" : "56|//0/5/0/5|"
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			44,
+			-1,
+			-1,
+			0,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
 	},
 	{
 		"i" : 
@@ -2648,5 +2700,123 @@
 		],
 		"k" : "buildingplan/filter",
 		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			43,
+			-1,
+			-1,
+			0,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	{
+		"i" : 
+		[
+			13,
+			14,
+			-1,
+			0,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			170,
+			1,
+			5,
+			5,
+			8,
+			8,
+			-1
+		],
+		"k" : "autobutcher/watchlist/DOG",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			171,
+			1,
+			10,
+			2,
+			10,
+			2,
+			-1
+		],
+		"k" : "autobutcher/watchlist/CAT",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			190,
+			1,
+			10,
+			2,
+			10,
+			2,
+			-1
+		],
+		"k" : "autobutcher/watchlist/BIRD_TURKEY",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			185,
+			1,
+			10,
+			2,
+			10,
+			2,
+			-1
+		],
+		"k" : "autobutcher/watchlist/YAK",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			178,
+			1,
+			10,
+			2,
+			10,
+			2,
+			-1
+		],
+		"k" : "autobutcher/watchlist/GOAT",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			181,
+			1,
+			10,
+			2,
+			10,
+			2,
+			-1
+		],
+		"k" : "autobutcher/watchlist/BIRD_DUCK",
+		"s" : ""
 	}
 ]

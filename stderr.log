@@ -1,5 +1,5 @@
 DFHack build: 50.08-r4-0-geff17556
-Starting with working directory: Z:\home\ethepherein\.local\share\Steam\steamapps\common\Dwarf Fortress
+Starting with working directory: C:\Program Files (x86)\Steam\steamapps\common\Dwarf Fortress
 Identifying DF version.
 Loading hack\symbols.xml ... OK
 v0.50.08 win64 STEAM (windows): PE: 0x644D7FD2
@@ -176,62 +176,33 @@ Loading script: hack/init/onMapLoad.default.init
 Loading script: dfhack-config/init/onMapLoad.init
 Loading script: dfhack-config/init/onMapLoad.control-panel-new-fort.init
 Invoking: on-new-fortress enable fix/protect-nicks
-Invoking: enable fix/protect-nicks
 Loading script: dfhack-config/init/onMapLoad.control-panel-repeats.init
 Invoking: repeat --name general-strike --time 1 --timeUnits days --command [ fix/general-strike -q ]
 Invoking: repeat --name warn-starving --time 10 --timeUnits days --command [ warn-starving ]
 Invoking: warn-starving
-Class not in symbols.xml: 'dfhack_lua_viewscreen@DFHack': vtable = 0x4693860
-Invoking: gui/design
-Invoking: spotclean
-Invoking: spotclean
-Invoking: spotclean
-Invoking: spotclean
-Invoking: gui/design
-Invoking: digv
-This tile is not a vein.
-Invoking: spotclean
-Invoking: gui/design
-Invoking: gui/launcher
-Invoking: workflow enable
-workflow is not a recognized command.
-Invoking: enable workflow
-No such plugin or Lua script: workflow
-Invoking: warn-starving
-Invoking: gui/confirm
-Invoking: warn-starving
-Invoking: gui/launcher
-Invoking: gui/blueprint
-Invoking: gui/launcher
-Invoking: blueprint
-invalid width or height: "nil" "nil"; width and height must be positive integers
-Invoking: gui/blueprint
-Invoking: hotkeys invoke 8
-Invoking: gui/launcher
-Invoking: blueprint
-invalid width or height: "nil" "nil"; width and height must be positive integers
-Invoking: gui/quickfort
-Invoking: gui/launcher
-Invoking: gui/launcher
-Invoking: gui/quickfort
-Invoking: gui/launcher
-Invoking: gui/quickfort
-Invoking: gui/launcher
-Invoking: gui/quickfort
-Invoking: warn-starving
-Invoking: warn-starving
-Invoking: spotclean
-Invoking: spotclean
-Invoking: spotclean
-Invoking: spotclean
-Invoking: hotkeys
-Invoking: overlay trigger hotkeys.menu
-Invoking: gui/design
-Invoking: warn-starving
+Class not in symbols.xml: 'dfhack_lua_viewscreen@DFHack': vtable = 0x7ff908c53860
 Invoking: warn-starving
 Invoking: warn-starving
 Invoking: gui/design
-Invoking: gui/design
+Invoking: warn-starving
+Invoking: gui/launcher
+Invoking: gui/autobutcher
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: gui/launcher
+Invoking: gui/launcher
+Invoking: enable autonestbox
+Invoking: gui/launcher
+Invoking: gui/autobutcher
 Invoking: warn-starving
 Invoking: warn-starving
 Invoking: warn-starving

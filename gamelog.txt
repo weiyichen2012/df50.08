@@ -2294,3 +2294,8 @@ Generating world using parameter set CREATE WORLD NOW = 4333335
 *** STARTING NEW GAME ***
 *** STARTING NEW GAME ***
 ** Starting New Outpost **
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Not enough free nestbox zones found! You need 10 more.

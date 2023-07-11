@@ -441,3 +441,5 @@ rainbow trout: Null Pop Num
 steelhead trout: Null Pop Num
 DOUBLE TAGGED ITEM: Store item in stockpile, bauxite
 DOUBLE TAGGED ITEM: Store item in stockpile, talc
+path fail: dwarf,Fish,17,80,174 -> 16,79,173: Id #2537:Path Goal Start Fish:Station Meeting Location at 128,123,170
+path fail: cat,106,124,147 -> 108,125,147: Id #10548:Path Goal Seek Station:Station Owner at 105,124,147
