@@ -1,5 +1,5 @@
 DFHack build: 50.08-r4-0-geff17556
-Starting with working directory: C:\Program Files (x86)\Steam\steamapps\common\Dwarf Fortress
+Starting with working directory: Z:\home\ethepherein\.local\share\Steam\steamapps\common\Dwarf Fortress
 Identifying DF version.
 Loading hack\symbols.xml ... OK
 v0.50.08 win64 STEAM (windows): PE: 0x644D7FD2
@@ -179,37 +179,6 @@ Invoking: on-new-fortress enable fix/protect-nicks
 Loading script: dfhack-config/init/onMapLoad.control-panel-repeats.init
 Invoking: repeat --name general-strike --time 1 --timeUnits days --command [ fix/general-strike -q ]
 Invoking: repeat --name warn-starving --time 10 --timeUnits days --command [ warn-starving ]
-Invoking: warn-starving
-Class not in symbols.xml: 'dfhack_lua_viewscreen@DFHack': vtable = 0x7ff908c53860
-Invoking: warn-starving
-Invoking: warn-starving
-Invoking: gui/design
-Invoking: warn-starving
-Invoking: gui/launcher
-Invoking: gui/autobutcher
-Invoking: warn-starving
-Invoking: warn-starving
-Invoking: warn-starving
-Invoking: warn-starving
-Invoking: warn-starving
-Invoking: warn-starving
-Invoking: warn-starving
-Invoking: warn-starving
-Invoking: warn-starving
-Invoking: warn-starving
-Invoking: warn-starving
-Invoking: gui/launcher
-Invoking: gui/launcher
-Invoking: enable autonestbox
-Invoking: gui/launcher
-Invoking: gui/autobutcher
-Invoking: warn-starving
-Invoking: warn-starving
-Invoking: warn-starving
-Invoking: warn-starving
-Invoking: warn-starving
-Invoking: warn-starving
-Invoking: warn-starving
 Invoking: warn-starving
 Loading script: dfhack-config/init/default.onMapUnload.init
 Invoking: script hack/init/onMapUnload.default.init
