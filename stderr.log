@@ -1,0 +1,273 @@
+DFHack build: 50.08-r4-0-geff17556
+Starting with working directory: Z:\home\ethepherein\.local\share\Steam\steamapps\common\Dwarf Fortress
+Identifying DF version.
+Loading hack\symbols.xml ... OK
+v0.50.08 win64 STEAM (windows): PE: 0x644D7FD2
+v0.50.08 win64 ITCH (windows): PE: 0x64504278
+v0.50.08 win64 CLASSIC (windows): PE: 0x64504595
+Loaded 3 DF symbol tables.
+Version: v0.50.08 win64 STEAM
+Initializing Console.
+Console is running.
+Binding to SDL.
+Found Steam.
+Initializing textures.
+Initializing plugins.
+loading plugin add-spatter
+loaded plugin add-spatter; DFHack build 50.08-r4-0-geff17556
+loading plugin autobutcher
+loaded plugin autobutcher; DFHack build 50.08-r4-0-geff17556
+loading plugin autochop
+loaded plugin autochop; DFHack build 50.08-r4-0-geff17556
+loading plugin autoclothing
+loaded plugin autoclothing; DFHack build 50.08-r4-0-geff17556
+loading plugin autodump
+loaded plugin autodump; DFHack build 50.08-r4-0-geff17556
+loading plugin autofarm
+loaded plugin autofarm; DFHack build 50.08-r4-0-geff17556
+loading plugin autolabor
+loaded plugin autolabor; DFHack build 50.08-r4-0-geff17556
+loading plugin autonestbox
+loaded plugin autonestbox; DFHack build 50.08-r4-0-geff17556
+loading plugin autoslab
+loaded plugin autoslab; DFHack build 50.08-r4-0-geff17556
+loading plugin blueprint
+loaded plugin blueprint; DFHack build 50.08-r4-0-geff17556
+loading plugin buildingplan
+loaded plugin buildingplan; DFHack build 50.08-r4-0-geff17556
+loading plugin changeitem
+loaded plugin changeitem; DFHack build 50.08-r4-0-geff17556
+loading plugin changelayer
+loaded plugin changelayer; DFHack build 50.08-r4-0-geff17556
+loading plugin changevein
+loaded plugin changevein; DFHack build 50.08-r4-0-geff17556
+loading plugin channel-safely
+loaded plugin channel-safely; DFHack build 50.08-r4-0-geff17556
+loading plugin cleanconst
+loaded plugin cleanconst; DFHack build 50.08-r4-0-geff17556
+loading plugin cleaners
+loaded plugin cleaners; DFHack build 50.08-r4-0-geff17556
+loading plugin cleanowned
+loaded plugin cleanowned; DFHack build 50.08-r4-0-geff17556
+loading plugin confirm
+loaded plugin confirm; DFHack build 50.08-r4-0-geff17556
+loading plugin createitem
+loaded plugin createitem; DFHack build 50.08-r4-0-geff17556
+loading plugin cursecheck
+loaded plugin cursecheck; DFHack build 50.08-r4-0-geff17556
+loading plugin cxxrandom
+loaded plugin cxxrandom; DFHack build 50.08-r4-0-geff17556
+loading plugin debug
+loaded plugin debug; DFHack build 50.08-r4-0-geff17556
+loading plugin deramp
+loaded plugin deramp; DFHack build 50.08-r4-0-geff17556
+loading plugin design
+loaded plugin design; DFHack build 50.08-r4-0-geff17556
+loading plugin dig-now
+loaded plugin dig-now; DFHack build 50.08-r4-0-geff17556
+loading plugin dig
+loaded plugin dig; DFHack build 50.08-r4-0-geff17556
+loading plugin eventful
+loaded plugin eventful; DFHack build 50.08-r4-0-geff17556
+loading plugin fastdwarf
+loaded plugin fastdwarf; DFHack build 50.08-r4-0-geff17556
+loading plugin faststart
+loaded plugin faststart; DFHack build 50.08-r4-0-geff17556
+loading plugin filltraffic
+loaded plugin filltraffic; DFHack build 50.08-r4-0-geff17556
+loading plugin flows
+loaded plugin flows; DFHack build 50.08-r4-0-geff17556
+loading plugin getplants
+loaded plugin getplants; DFHack build 50.08-r4-0-geff17556
+loading plugin hotkeys
+loaded plugin hotkeys; DFHack build 50.08-r4-0-geff17556
+loading plugin lair
+loaded plugin lair; DFHack build 50.08-r4-0-geff17556
+loading plugin liquids
+loaded plugin liquids; DFHack build 50.08-r4-0-geff17556
+loading plugin logistics
+loaded plugin logistics; DFHack build 50.08-r4-0-geff17556
+loading plugin luasocket
+loaded plugin luasocket; DFHack build 50.08-r4-0-geff17556
+loading plugin misery
+loaded plugin misery; DFHack build 50.08-r4-0-geff17556
+loading plugin nestboxes
+loaded plugin nestboxes; DFHack build 50.08-r4-0-geff17556
+loading plugin orders
+loaded plugin orders; DFHack build 50.08-r4-0-geff17556
+loading plugin overlay
+loaded plugin overlay; DFHack build 50.08-r4-0-geff17556
+loading plugin pathable
+loaded plugin pathable; DFHack build 50.08-r4-0-geff17556
+loading plugin probe
+loaded plugin probe; DFHack build 50.08-r4-0-geff17556
+loading plugin prospector
+loaded plugin prospector; DFHack build 50.08-r4-0-geff17556
+loading plugin regrass
+loaded plugin regrass; DFHack build 50.08-r4-0-geff17556
+loading plugin RemoteFortressReader
+loaded plugin RemoteFortressReader; DFHack build 50.08-r4-0-geff17556
+loading plugin reveal
+loaded plugin reveal; DFHack build 50.08-r4-0-geff17556
+loading plugin seedwatch
+loaded plugin seedwatch; DFHack build 50.08-r4-0-geff17556
+loading plugin showmood
+loaded plugin showmood; DFHack build 50.08-r4-0-geff17556
+loading plugin stockpiles
+loaded plugin stockpiles; DFHack build 50.08-r4-0-geff17556
+loading plugin stonesense
+loaded plugin stonesense; DFHack build 50.08-r4-0-geff17556
+loading plugin strangemood
+loaded plugin strangemood; DFHack build 50.08-r4-0-geff17556
+loading plugin tailor
+loaded plugin tailor; DFHack build 50.08-r4-0-geff17556
+loading plugin tiletypes
+loaded plugin tiletypes; DFHack build 50.08-r4-0-geff17556
+loading plugin work-now
+loaded plugin work-now; DFHack build 50.08-r4-0-geff17556
+loading plugin xlsxreader
+loaded plugin xlsxreader; DFHack build 50.08-r4-0-geff17556
+Starting the TCP listener.
+Starting IO thread.
+Starting DF input capture thread.
+Listening on port 5000
+DFHack is running.
+Loading script: dfhack-config/init/default.dfhack.init
+Invoking: script hack/init/dfhack.default.init
+Loading script: hack/init/dfhack.default.init
+Invoking: script hack/init/dfhack.keybindings.init
+Loading script: hack/init/dfhack.keybindings.init
+Invoking: keybinding add ` gui/launcher
+Invoking: keybinding add Ctrl-Shift-D gui/launcher
+Invoking: keybinding add Ctrl-Shift-P "gui/launcher --minimal"
+Invoking: keybinding add Ctrl-Shift-C hotkeys
+Invoking: keybinding add Ctrl-Shift-E gui/control-panel
+Invoking: keybinding add Ctrl-Shift-K gui/cp437-table
+Invoking: keybinding add Ctrl-Shift-A gui/quickcmd
+Invoking: keybinding add Ctrl-Alt-S@dwarfmode quicksave
+Invoking: keybinding add Ctrl-V@dwarfmode digv
+Invoking: keybinding add Ctrl-Shift-V@dwarfmode "digv x"
+Invoking: keybinding add Ctrl-C spotclean
+Invoking: keybinding add Ctrl-K@dwarfmode autodump-destroy-item
+Invoking: keybinding add Ctrl-H@dwarfmode gui/autodump
+Invoking: keybinding add Ctrl-Shift-Q@dwarfmode gui/quickfort
+Invoking: keybinding add Alt-K@dwarfmode toggle-kbd-cursor
+Invoking: keybinding add Ctrl-D@dwarfmode gui/design
+Invoking: script hack/init/dfhack.tools.init
+Loading script: hack/init/dfhack.tools.init
+Invoking: enable buildingplan
+Invoking: enable confirm
+Invoking: enable logistics
+Invoking: enable overlay
+Invoking: alias add autounsuspend suspendmanager
+Invoking: alias add gui/dig gui/design
+Invoking: alias add version help
+Loading script: dfhack-config/init/dfhack.init
+Loading script: dfhack-config/init/dfhack.control-panel-system.init
+Invoking: enable faststart
+Invoking: enable work-now
+Loading script: dfhack-config/init/default.onLoad.init
+Invoking: script hack/init/onLoad.default.init
+Loading script: hack/init/onLoad.default.init
+Loading script: dfhack-config/init/onLoad.init
+Loading script: dfhack-config/init/default.onMapLoad.init
+Invoking: script hack/init/onMapLoad.default.init
+Loading script: hack/init/onMapLoad.default.init
+Loading script: dfhack-config/init/onMapLoad.init
+Loading script: dfhack-config/init/onMapLoad.control-panel-new-fort.init
+Invoking: on-new-fortress enable fix/protect-nicks
+Invoking: enable fix/protect-nicks
+Loading script: dfhack-config/init/onMapLoad.control-panel-repeats.init
+Invoking: repeat --name general-strike --time 1 --timeUnits days --command [ fix/general-strike -q ]
+Invoking: repeat --name warn-starving --time 10 --timeUnits days --command [ warn-starving ]
+Invoking: warn-starving
+Class not in symbols.xml: 'dfhack_lua_viewscreen@DFHack': vtable = 0x4693860
+Invoking: gui/design
+Invoking: spotclean
+Invoking: spotclean
+Invoking: spotclean
+Invoking: spotclean
+Invoking: gui/design
+Invoking: digv
+This tile is not a vein.
+Invoking: spotclean
+Invoking: gui/design
+Invoking: gui/launcher
+Invoking: workflow enable
+workflow is not a recognized command.
+Invoking: enable workflow
+No such plugin or Lua script: workflow
+Invoking: warn-starving
+Invoking: gui/confirm
+Invoking: warn-starving
+Invoking: gui/launcher
+Invoking: gui/blueprint
+Invoking: gui/launcher
+Invoking: blueprint
+invalid width or height: "nil" "nil"; width and height must be positive integers
+Invoking: gui/blueprint
+Invoking: hotkeys invoke 8
+Invoking: gui/launcher
+Invoking: blueprint
+invalid width or height: "nil" "nil"; width and height must be positive integers
+Invoking: gui/quickfort
+Invoking: gui/launcher
+Invoking: gui/launcher
+Invoking: gui/quickfort
+Invoking: gui/launcher
+Invoking: gui/quickfort
+Invoking: gui/launcher
+Invoking: gui/quickfort
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: spotclean
+Invoking: spotclean
+Invoking: spotclean
+Invoking: spotclean
+Invoking: hotkeys
+Invoking: overlay trigger hotkeys.menu
+Invoking: gui/design
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: gui/design
+Invoking: gui/design
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Loading script: dfhack-config/init/default.onMapUnload.init
+Invoking: script hack/init/onMapUnload.default.init
+Loading script: hack/init/onMapUnload.default.init
+Loading script: dfhack-config/init/onMapUnload.init
+Loading script: dfhack-config/init/default.onUnload.init
+Invoking: script hack/init/onUnload.default.init
+Loading script: hack/init/onUnload.default.init
+Loading script: dfhack-config/init/onUnload.init
+Loading script: dfhack-config/init/default.onLoad.init
+Invoking: script hack/init/onLoad.default.init
+Loading script: hack/init/onLoad.default.init
+Loading script: dfhack-config/init/onLoad.init
+Loading script: dfhack-config/init/default.onMapLoad.init
+Invoking: script hack/init/onMapLoad.default.init
+Loading script: hack/init/onMapLoad.default.init
+Loading script: dfhack-config/init/onMapLoad.init
+Loading script: dfhack-config/init/onMapLoad.control-panel-new-fort.init
+Invoking: on-new-fortress enable fix/protect-nicks
+Loading script: dfhack-config/init/onMapLoad.control-panel-repeats.init
+Invoking: repeat --name general-strike --time 1 --timeUnits days --command [ fix/general-strike -q ]
+Invoking: repeat --name warn-starving --time 10 --timeUnits days --command [ warn-starving ]
+Invoking: warn-starving
+Loading script: dfhack-config/init/default.onMapUnload.init
+Invoking: script hack/init/onMapUnload.default.init
+Loading script: hack/init/onMapUnload.default.init
+Loading script: dfhack-config/init/onMapUnload.init
+Loading script: dfhack-config/init/default.onUnload.init
+Invoking: script hack/init/onUnload.default.init
+Loading script: hack/init/onUnload.default.init
+Loading script: dfhack-config/init/onUnload.init
+Console is shutting down properly.

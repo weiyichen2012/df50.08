@@ -1,0 +1,47 @@
+[
+	{
+	"enabled": true,
+	"id": "burrow-remove",
+	"paused": false
+},
+	{
+	"enabled": true,
+	"id": "depot-remove",
+	"paused": false
+},
+	{
+	"enabled": true,
+	"id": "haul-delete-route",
+	"paused": false
+},
+	{
+	"enabled": true,
+	"id": "haul-delete-stop",
+	"paused": false
+},
+	{
+	"enabled": false,
+	"id": "order-remove",
+	"paused": false
+},
+	{
+	"enabled": true,
+	"id": "squad-disband",
+	"paused": false
+},
+	{
+	"enabled": true,
+	"id": "stockpile-remove",
+	"paused": false
+},
+	{
+	"enabled": true,
+	"id": "trade-cancel",
+	"paused": false
+},
+	{
+	"enabled": true,
+	"id": "zone-remove",
+	"paused": false
+}
+]

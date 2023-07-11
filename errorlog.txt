@@ -1,0 +1,443 @@
+MOUNTAIN trying to generate musical form without speech or instruments
+DOUBLE TAGGED ITEM: Store item in stockpile, claystone
+DOUBLE TAGGED ITEM: Store item in stockpile, claystone
+milkfish: Null Pop Num
+river otters: Null Pop Num
+tigerfish: Null Pop Num
+hippos: Null Pop Num
+alligators: Null Pop Num
+carp: Null Pop Num
+stingrays: Null Pop Num
+mussels: Null Pop Num
+clown loaches: Null Pop Num
+banded knifefish: Null Pop Num
+guppies: Null Pop Num
+giant alligators: Null Pop Num
+giant hippos: Null Pop Num
+giant ospreys: Null Pop Num
+giant sponges: Null Pop Num
+osprey men: Null Pop Num
+giant otters: Null Pop Num
+platypus men: Null Pop Num
+hippos: Null Pop Num
+alligators: Null Pop Num
+milkfish: Null Pop Num
+tigerfish: Null Pop Num
+river otters: Null Pop Num
+stingrays: Null Pop Num
+ospreys: Null Pop Num
+mussels: Null Pop Num
+clown loaches: Null Pop Num
+banded knifefish: Null Pop Num
+guppies: Null Pop Num
+giant alligators: Null Pop Num
+giant otters: Null Pop Num
+sponge men: Null Pop Num
+giant sponges: Null Pop Num
+giant hippos: Null Pop Num
+giant ospreys: Null Pop Num
+giant platypuses: Null Pop Num
+tigerfish: Null Pop Num
+alligators: Null Pop Num
+ospreys: Null Pop Num
+hippos: Null Pop Num
+carp: Null Pop Num
+stingrays: Null Pop Num
+river otters: Null Pop Num
+mussels: Null Pop Num
+lungfish: Null Pop Num
+clown loaches: Null Pop Num
+banded knifefish: Null Pop Num
+giant alligators: Null Pop Num
+giant sponges: Null Pop Num
+giant hippos: Null Pop Num
+giant otters: Null Pop Num
+otter men: Null Pop Num
+osprey men: Null Pop Num
+alligator men: Null Pop Num
+milkfish: Null Pop Num
+river otters: Null Pop Num
+tigerfish: Null Pop Num
+hippos: Null Pop Num
+alligators: Null Pop Num
+carp: Null Pop Num
+stingrays: Null Pop Num
+mussels: Null Pop Num
+clown loaches: Null Pop Num
+banded knifefish: Null Pop Num
+guppies: Null Pop Num
+giant alligators: Null Pop Num
+giant hippos: Null Pop Num
+giant ospreys: Null Pop Num
+giant sponges: Null Pop Num
+osprey men: Null Pop Num
+giant otters: Null Pop Num
+platypus men: Null Pop Num
+hippos: Null Pop Num
+alligators: Null Pop Num
+milkfish: Null Pop Num
+tigerfish: Null Pop Num
+river otters: Null Pop Num
+stingrays: Null Pop Num
+ospreys: Null Pop Num
+mussels: Null Pop Num
+clown loaches: Null Pop Num
+banded knifefish: Null Pop Num
+guppies: Null Pop Num
+giant alligators: Null Pop Num
+giant otters: Null Pop Num
+sponge men: Null Pop Num
+giant sponges: Null Pop Num
+giant hippos: Null Pop Num
+giant ospreys: Null Pop Num
+giant platypuses: Null Pop Num
+tigerfish: Null Pop Num
+alligators: Null Pop Num
+ospreys: Null Pop Num
+hippos: Null Pop Num
+carp: Null Pop Num
+stingrays: Null Pop Num
+river otters: Null Pop Num
+mussels: Null Pop Num
+lungfish: Null Pop Num
+clown loaches: Null Pop Num
+banded knifefish: Null Pop Num
+giant alligators: Null Pop Num
+giant sponges: Null Pop Num
+giant hippos: Null Pop Num
+giant otters: Null Pop Num
+otter men: Null Pop Num
+osprey men: Null Pop Num
+alligator men: Null Pop Num
+milkfish: Null Pop Num
+river otters: Null Pop Num
+tigerfish: Null Pop Num
+hippos: Null Pop Num
+alligators: Null Pop Num
+carp: Null Pop Num
+stingrays: Null Pop Num
+mussels: Null Pop Num
+clown loaches: Null Pop Num
+banded knifefish: Null Pop Num
+guppies: Null Pop Num
+giant alligators: Null Pop Num
+giant hippos: Null Pop Num
+giant ospreys: Null Pop Num
+giant sponges: Null Pop Num
+osprey men: Null Pop Num
+giant otters: Null Pop Num
+platypus men: Null Pop Num
+hippos: Null Pop Num
+alligators: Null Pop Num
+milkfish: Null Pop Num
+tigerfish: Null Pop Num
+river otters: Null Pop Num
+stingrays: Null Pop Num
+ospreys: Null Pop Num
+mussels: Null Pop Num
+clown loaches: Null Pop Num
+banded knifefish: Null Pop Num
+guppies: Null Pop Num
+giant alligators: Null Pop Num
+giant otters: Null Pop Num
+sponge men: Null Pop Num
+giant sponges: Null Pop Num
+giant hippos: Null Pop Num
+giant ospreys: Null Pop Num
+giant platypuses: Null Pop Num
+tigerfish: Null Pop Num
+alligators: Null Pop Num
+ospreys: Null Pop Num
+hippos: Null Pop Num
+carp: Null Pop Num
+stingrays: Null Pop Num
+river otters: Null Pop Num
+mussels: Null Pop Num
+lungfish: Null Pop Num
+clown loaches: Null Pop Num
+banded knifefish: Null Pop Num
+giant alligators: Null Pop Num
+giant sponges: Null Pop Num
+giant hippos: Null Pop Num
+giant otters: Null Pop Num
+otter men: Null Pop Num
+osprey men: Null Pop Num
+alligator men: Null Pop Num
+stingrays: Null Pop Num
+tigerfish: Null Pop Num
+alligators: Null Pop Num
+saltwater crocodiles: Null Pop Num
+milkfish: Null Pop Num
+platypuses: Null Pop Num
+ospreys: Null Pop Num
+mussels: Null Pop Num
+guppies: Null Pop Num
+lungfish: Null Pop Num
+banded knifefish: Null Pop Num
+tigerfish: Null Pop Num
+stingrays: Null Pop Num
+ospreys: Null Pop Num
+alligators: Null Pop Num
+hippos: Null Pop Num
+milkfish: Null Pop Num
+platypuses: Null Pop Num
+mussels: Null Pop Num
+clown loaches: Null Pop Num
+banded knifefish: Null Pop Num
+guppies: Null Pop Num
+sturgeons: Null Pop Num
+alligators: Null Pop Num
+ospreys: Null Pop Num
+alligator snapping turtles: Null Pop Num
+beavers: Null Pop Num
+minks: Null Pop Num
+longnose gars: Null Pop Num
+char: Null Pop Num
+steelhead trout: Null Pop Num
+mussels: Null Pop Num
+perch: Null Pop Num
+salmon: Null Pop Num
+shads: Null Pop Num
+beavers: Null Pop Num
+pike: Null Pop Num
+sturgeons: Null Pop Num
+alligator snapping turtles: Null Pop Num
+ospreys: Null Pop Num
+minks: Null Pop Num
+common snapping turtles: Null Pop Num
+shads: Null Pop Num
+char: Null Pop Num
+perch: Null Pop Num
+salmon: Null Pop Num
+brook lampreys: Null Pop Num
+milkfish: Null Pop Num
+river otters: Null Pop Num
+tigerfish: Null Pop Num
+hippos: Null Pop Num
+alligators: Null Pop Num
+carp: Null Pop Num
+stingrays: Null Pop Num
+mussels: Null Pop Num
+clown loaches: Null Pop Num
+banded knifefish: Null Pop Num
+guppies: Null Pop Num
+giant alligators: Null Pop Num
+giant hippos: Null Pop Num
+giant ospreys: Null Pop Num
+giant sponges: Null Pop Num
+osprey men: Null Pop Num
+giant otters: Null Pop Num
+platypus men: Null Pop Num
+hippos: Null Pop Num
+alligators: Null Pop Num
+milkfish: Null Pop Num
+tigerfish: Null Pop Num
+river otters: Null Pop Num
+stingrays: Null Pop Num
+ospreys: Null Pop Num
+mussels: Null Pop Num
+clown loaches: Null Pop Num
+banded knifefish: Null Pop Num
+guppies: Null Pop Num
+giant alligators: Null Pop Num
+giant otters: Null Pop Num
+sponge men: Null Pop Num
+giant sponges: Null Pop Num
+giant hippos: Null Pop Num
+giant ospreys: Null Pop Num
+giant platypuses: Null Pop Num
+tigerfish: Null Pop Num
+alligators: Null Pop Num
+ospreys: Null Pop Num
+hippos: Null Pop Num
+carp: Null Pop Num
+stingrays: Null Pop Num
+river otters: Null Pop Num
+mussels: Null Pop Num
+lungfish: Null Pop Num
+clown loaches: Null Pop Num
+banded knifefish: Null Pop Num
+giant alligators: Null Pop Num
+giant sponges: Null Pop Num
+giant hippos: Null Pop Num
+giant otters: Null Pop Num
+otter men: Null Pop Num
+osprey men: Null Pop Num
+alligator men: Null Pop Num
+milkfish: Null Pop Num
+alligators: Null Pop Num
+stingrays: Null Pop Num
+carp: Null Pop Num
+ospreys: Null Pop Num
+hippos: Null Pop Num
+tigerfish: Null Pop Num
+mussels: Null Pop Num
+banded knifefish: Null Pop Num
+guppies: Null Pop Num
+lungfish: Null Pop Num
+giant ospreys: Null Pop Num
+otter men: Null Pop Num
+giant sponges: Null Pop Num
+platypus men: Null Pop Num
+giant otters: Null Pop Num
+hippo men: Null Pop Num
+giant alligators: Null Pop Num
+milkfish: Null Pop Num
+alligators: Null Pop Num
+stingrays: Null Pop Num
+carp: Null Pop Num
+ospreys: Null Pop Num
+hippos: Null Pop Num
+tigerfish: Null Pop Num
+mussels: Null Pop Num
+banded knifefish: Null Pop Num
+guppies: Null Pop Num
+lungfish: Null Pop Num
+giant ospreys: Null Pop Num
+otter men: Null Pop Num
+giant sponges: Null Pop Num
+platypus men: Null Pop Num
+giant otters: Null Pop Num
+hippo men: Null Pop Num
+giant alligators: Null Pop Num
+milkfish: Null Pop Num
+alligators: Null Pop Num
+stingrays: Null Pop Num
+carp: Null Pop Num
+ospreys: Null Pop Num
+hippos: Null Pop Num
+tigerfish: Null Pop Num
+mussels: Null Pop Num
+banded knifefish: Null Pop Num
+guppies: Null Pop Num
+lungfish: Null Pop Num
+giant ospreys: Null Pop Num
+otter men: Null Pop Num
+giant sponges: Null Pop Num
+platypus men: Null Pop Num
+giant otters: Null Pop Num
+hippo men: Null Pop Num
+giant alligators: Null Pop Num
+milkfish: Null Pop Num
+river otters: Null Pop Num
+tigerfish: Null Pop Num
+hippos: Null Pop Num
+alligators: Null Pop Num
+carp: Null Pop Num
+stingrays: Null Pop Num
+mussels: Null Pop Num
+clown loaches: Null Pop Num
+banded knifefish: Null Pop Num
+guppies: Null Pop Num
+giant alligators: Null Pop Num
+giant hippos: Null Pop Num
+giant ospreys: Null Pop Num
+giant sponges: Null Pop Num
+osprey men: Null Pop Num
+giant otters: Null Pop Num
+platypus men: Null Pop Num
+hippos: Null Pop Num
+alligators: Null Pop Num
+milkfish: Null Pop Num
+tigerfish: Null Pop Num
+river otters: Null Pop Num
+stingrays: Null Pop Num
+ospreys: Null Pop Num
+mussels: Null Pop Num
+clown loaches: Null Pop Num
+banded knifefish: Null Pop Num
+guppies: Null Pop Num
+giant alligators: Null Pop Num
+giant otters: Null Pop Num
+sponge men: Null Pop Num
+giant sponges: Null Pop Num
+giant hippos: Null Pop Num
+giant ospreys: Null Pop Num
+giant platypuses: Null Pop Num
+tigerfish: Null Pop Num
+alligators: Null Pop Num
+ospreys: Null Pop Num
+hippos: Null Pop Num
+carp: Null Pop Num
+stingrays: Null Pop Num
+river otters: Null Pop Num
+mussels: Null Pop Num
+lungfish: Null Pop Num
+clown loaches: Null Pop Num
+banded knifefish: Null Pop Num
+giant alligators: Null Pop Num
+giant sponges: Null Pop Num
+giant hippos: Null Pop Num
+giant otters: Null Pop Num
+otter men: Null Pop Num
+osprey men: Null Pop Num
+alligator men: Null Pop Num
+stingrays: Null Pop Num
+tigerfish: Null Pop Num
+alligators: Null Pop Num
+saltwater crocodiles: Null Pop Num
+milkfish: Null Pop Num
+platypuses: Null Pop Num
+ospreys: Null Pop Num
+mussels: Null Pop Num
+guppies: Null Pop Num
+lungfish: Null Pop Num
+banded knifefish: Null Pop Num
+path fail: sturgeon,0,169,166 -> 21,165,166: Id #3739:Path Goal Flee Terrain:Station None at 4,168,166
+path fail: longnose gar,3,167,166 -> 2,166,166: Id #3738:Path Goal Marauder Mill:Station Marauder Mill at 2,166,166
+path fail: longnose gar,0,169,166 -> 20,166,166: Id #3738:Path Goal Flee Terrain:Station Marauder Mill at 2,166,166
+path fail: longnose gar,0,166,166 -> 19,167,166: Id #3738:Path Goal Flee Terrain:Station None at 0,168,166
+path fail: longnose gar,0,167,166 -> 19,165,166: Id #3738:Path Goal Flee Terrain:Station None at 0,166,166
+path fail: longnose gar,0,169,166 -> 19,165,166: Id #3738:Path Goal Flee Terrain:Station None at 0,169,166
+path fail: longnose gar,0,166,166 -> 20,166,166: Id #3738:Path Goal Flee Terrain:Station None at 0,169,166
+path fail: longnose gar,0,169,166 -> 19,166,166: Id #3738:Path Goal Flee Terrain:Station None at 1,168,166
+path fail: longnose gar,0,169,166 -> 19,167,166: Id #3738:Path Goal Flee Terrain:Station None at 0,169,166
+path fail: sturgeon,0,168,166 -> 2,166,166: Id #3739:Path Goal Flee from Opponent:Station Marauder Mill at 106,158,166
+path fail: carp,0,169,166 -> 10,165,166: Id #3740:Path Goal Marauder Mill:Station Marauder Mill at 10,165,166
+path fail: sturgeon,0,166,166 -> 10,168,166: Id #3736:Path Goal Marauder Mill:Station Marauder Mill at 10,168,166
+DOUBLE TAGGED ITEM: Store item in stockpile, chert
+DOUBLE TAGGED ITEM: Store item in stockpile, microcline
+path fail: dwarf,Gather plants,93,96,161 -> 85,112,161: Id #4245:Path Goal Gather Plant:Station Mill Building at 109,76,158
+loop path fail: <same square> turkey hen,100,76,158 -> 102,76,158: Id #4268:Path Goal Seek Station:Station Mill Building at 103,78,158
+loop path fail: <same square> dog,103,76,158 -> 104,76,158: Id #4386:Path Goal Seek Station:Station Owner at 106,74,158
+loop path fail: <same square> dog,103,78,158 -> 104,78,158: Id #4255:Path Goal Seek Station:Station Owner at 104,77,158
+carp: Null Pop Num
+minks: Null Pop Num
+beavers: Null Pop Num
+sea lampreys: Null Pop Num
+ospreys: Null Pop Num
+river otters: Null Pop Num
+pike: Null Pop Num
+char: Null Pop Num
+salmon: Null Pop Num
+mussels: Null Pop Num
+rainbow trout: Null Pop Num
+steelhead trout: Null Pop Num
+carp: Null Pop Num
+minks: Null Pop Num
+beavers: Null Pop Num
+sea lampreys: Null Pop Num
+ospreys: Null Pop Num
+river otters: Null Pop Num
+pike: Null Pop Num
+char: Null Pop Num
+salmon: Null Pop Num
+mussels: Null Pop Num
+rainbow trout: Null Pop Num
+steelhead trout: Null Pop Num
+Unrecognized Init Option: MULTITHREADING
+Unrecognized Init Option: MULTITHREADING
+carp: Null Pop Num
+minks: Null Pop Num
+beavers: Null Pop Num
+sea lampreys: Null Pop Num
+ospreys: Null Pop Num
+river otters: Null Pop Num
+pike: Null Pop Num
+char: Null Pop Num
+salmon: Null Pop Num
+mussels: Null Pop Num
+rainbow trout: Null Pop Num
+steelhead trout: Null Pop Num
+DOUBLE TAGGED ITEM: Store item in stockpile, bauxite
+DOUBLE TAGGED ITEM: Store item in stockpile, talc

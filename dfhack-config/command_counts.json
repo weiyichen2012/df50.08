@@ -1,0 +1,11 @@
+{
+	"1": 1,
+	"blueprint": 2,
+	"buildingplan": 1,
+	"enable": 1,
+	"gui/blueprint": 2,
+	"gui/mod-manager": 1,
+	"gui/quickfort": 4,
+	"workflow": 1,
+	"workorder": 2
+}
