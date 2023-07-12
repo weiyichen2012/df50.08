@@ -2311,3 +2311,20 @@ Not enough free nestbox zones found! You need 2 more.
 Not enough free nestbox zones found! You need 12 more.
 Not enough free nestbox zones found! You need 11 more.
 Not enough free nestbox zones found! You need 10 more.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Not enough free nestbox zones found! You need 10 more.
+Not enough free nestbox zones found! You need 15 more.
+Not enough free nestbox zones found! You need 26 more.
+Not enough free nestbox zones found! You need 35 more.
+Not enough free nestbox zones found! You need 34 more.
+Not enough free nestbox zones found! You need 40 more.
+Not enough free nestbox zones found! You need 46 more.
+Not enough free nestbox zones found! You need 44 more.
+Not enough free nestbox zones found! You need 42 more.
+Not enough free nestbox zones found! You need 40 more.
+Not enough free nestbox zones found! You need 39 more.
+Not enough free nestbox zones found! You need 35 more.
+Not enough free nestbox zones found! You need 33 more.
+Not enough free nestbox zones found! You need 30 more.
+Not enough free nestbox zones found! You need 29 more.

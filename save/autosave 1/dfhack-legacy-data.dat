@@ -2785,7 +2785,20 @@
 		"k" : "buildingplan/filter",
 		"s" : "//0/5/0/5|"
 	},
-	null,
+	{
+		"i" : 
+		[
+			14,
+			-1,
+			-1,
+			0,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
 	{
 		"i" : 
 		[
@@ -2884,47 +2897,46 @@
 		"k" : "autobutcher/watchlist/BIRD_DUCK",
 		"s" : ""
 	},
-	null,
 	{
 		"i" : 
 		[
-			217,
+			34,
+			2,
+			-1,
 			0,
-			-1,
-			-1,
 			-1,
 			-1,
 			-1
 		],
-		"k" : "buildingplan/building",
-		"s" : "71|//0/5/0/5|"
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
 	},
 	{
 		"i" : 
 		[
-			218,
+			13,
+			20,
+			-1,
 			0,
-			-1,
-			-1,
 			-1,
 			-1,
 			-1
 		],
-		"k" : "buildingplan/building",
-		"s" : "71|//0/5/0/5|"
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0;//0/5/0/5;//0/5/0/5|"
 	},
 	{
 		"i" : 
 		[
-			219,
+			19,
+			-1,
+			-1,
 			0,
-			-1,
-			-1,
 			-1,
 			-1,
 			-1
 		],
-		"k" : "buildingplan/building",
-		"s" : "71|//0/5/0/5|"
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
 	}
 ]

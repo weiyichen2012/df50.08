@@ -445,3 +445,6 @@ path fail: dwarf,Fish,17,80,174 -> 16,79,173: Id #2537:Path Goal Start Fish:Stat
 path fail: cat,106,124,147 -> 108,125,147: Id #10548:Path Goal Seek Station:Station Owner at 105,124,147
 DOUBLE TAGGED ITEM: Store item in stockpile, hematite
 DOUBLE TAGGED ITEM: Store item in stockpile, dolomite
+loop path fail: <same square> dwarf,Drink,101,126,170 -> 94,130,170: Id #10535:Path Goal Seek Drink Item:Station Mill Building at 113,119,172
+loop path fail: <same square> dwarf,Brew drink from plant,103,127,170 -> 88,136,170: Id #2532:Path Goal Work at Building:Station Mill Building at 110,119,172
+loop path fail: <same square> ewe,105,125,170 -> 111,117,172: Id #11527:Path Goal Seek Station:Station Owner at 130,142,170
