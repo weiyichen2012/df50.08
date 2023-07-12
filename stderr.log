@@ -180,6 +180,23 @@ Loading script: dfhack-config/init/onMapLoad.control-panel-repeats.init
 Invoking: repeat --name general-strike --time 1 --timeUnits days --command [ fix/general-strike -q ]
 Invoking: repeat --name warn-starving --time 10 --timeUnits days --command [ warn-starving ]
 Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
+Invoking: warn-starving
 Loading script: dfhack-config/init/default.onMapUnload.init
 Invoking: script hack/init/onMapUnload.default.init
 Loading script: hack/init/onMapUnload.default.init
