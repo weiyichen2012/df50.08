@@ -2998,23 +2998,37 @@
 	{
 		"i" : 
 		[
-			366,
-			0,
-			-1,
-			-1,
-			-1,
-			-1,
+			184,
+			1,
+			10,
+			2,
+			10,
+			2,
 			-1
 		],
-		"k" : "buildingplan/building",
-		"s" : "66|//0/5/0/5|"
+		"k" : "autobutcher/watchlist/BIRD_GOOSE",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			186,
+			1,
+			10,
+			2,
+			10,
+			2,
+			-1
+		],
+		"k" : "autobutcher/watchlist/LLAMA",
+		"s" : ""
 	},
 	null,
 	null,
 	{
 		"i" : 
 		[
-			351,
+			490,
 			0,
 			-1,
 			-1,
@@ -3028,21 +3042,7 @@
 	{
 		"i" : 
 		[
-			352,
-			0,
-			-1,
-			-1,
-			-1,
-			-1,
-			-1
-		],
-		"k" : "buildingplan/building",
-		"s" : "66|//0/5/0/5|"
-	},
-	{
-		"i" : 
-		[
-			353,
+			491,
 			0,
 			-1,
 			-1,
@@ -3125,5 +3125,197 @@
 		],
 		"k" : "autobutcher/watchlist/COW",
 		"s" : ""
+	},
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	{
+		"i" : 
+		[
+			448,
+			0,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			449,
+			0,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			450,
+			0,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			451,
+			0,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			452,
+			0,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			453,
+			0,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			454,
+			0,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			455,
+			0,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			456,
+			0,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			457,
+			0,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/building",
+		"s" : "66|//0/5/0/5|"
 	}
 ]

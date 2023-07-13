@@ -4,9 +4,9 @@
 	"buildingplan": 1,
 	"enable": 2,
 	"gui/autobutcher": 2,
-	"gui/blueprint": 2,
+	"gui/blueprint": 4,
 	"gui/mod-manager": 1,
-	"gui/quickfort": 4,
+	"gui/quickfort": 9,
 	"workflow": 1,
 	"workorder": 2
 }

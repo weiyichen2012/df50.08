@@ -181,12 +181,23 @@ Invoking: repeat --name general-strike --time 1 --timeUnits days --command [ fix
 Invoking: repeat --name warn-starving --time 10 --timeUnits days --command [ warn-starving ]
 Invoking: warn-starving
 Invoking: warn-starving
+Class not in symbols.xml: 'dfhack_lua_viewscreen@DFHack': vtable = 0x7ffc607b3860
+Invoking: gui/launcher
+Invoking: gui/blueprint
+Invoking: gui/launcher
+Invoking: gui/quickfort
+Invoking: gui/launcher
+Invoking: gui/blueprint
+Invoking: gui/launcher
+Invoking: gui/quickfort
+Invoking: gui/launcher
+Invoking: gui/quickfort
 Invoking: warn-starving
 Invoking: warn-starving
-Invoking: warn-starving
-Invoking: warn-starving
-Invoking: warn-starving
-Invoking: warn-starving
+Invoking: gui/launcher
+Invoking: gui/quickfort
+Invoking: gui/launcher
+Invoking: gui/quickfort
 Invoking: warn-starving
 Invoking: warn-starving
 Invoking: warn-starving

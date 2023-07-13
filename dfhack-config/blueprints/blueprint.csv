@@ -1,4 +1,26 @@
 #dig label(dig)
-i,i,i
-i,i,i
-i,i,i
+,,,,,,,,,,,d,d
+,d,,d,,d,,d,,d,,d,d,,d,,d,,d,,d,,d,,d,,d,,d,,d,,d
+,d,,d,,d,,d,,d,,d,d,,d,,d,,d,,d,,d,,d,,d,,d,,d,,d
+,d,,d,,d,,d,,d,,d,d,,d,,d,,d,,d,,d,,d,,d,,d,,d,,d
+,d,,d,,d,,d,,d,,d,d,,d,,d,,d,,d,,d,,d,,d,,d,,d,,d
+,d,,d,,d,,d,,d,,d,d,,d,,d,,d,,d,,d,,d,,d,,d,,d,,d
+,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d
+,d,,d,,d,,d,,d,,d,d,,d,,d,,d,,d,,d,,d,,d,,d,,d,,d
+,d,,d,,d,,d,,d,,d,d,,d,,d,,d,,d,,d,,d,,d,,d,,d,,d
+,d,,d,,d,,d,,d,,d,d,,d,,d,,d,,d,,d,,d,,d,,d,,d,,d
+,d,,d,,d,,d,,d,,d,d,,d,,d,,d,,d,,d,,d,,d,,d,,d,,d
+,d,,d,,d,,d,,d,,d,d,,d,,d,,d,,d,,d,,d,,d,,d,,d,,d
+#build label(build)
+
+,f,,f,,f,,f,,f,,,,,f,,f,,f,,f,,f,,f,,f,,f,,f,,f
+
+,b,,b,,b,,b,,b,,,,,b,,b,,b,,b,,b,,b,,b,,b,,b,,b
+
+,d,,d,,d,,d,,d,,,,,d,,d,,d,,d,,d,,d,,d,,d,,d,,d
+
+,d,,d,,d,,d,,d,,,,,d,,d,,d,,d,,d,,d,,d,,d,,d,,d
+
+,b,,b,,b,,b,,b,,,,,b,,b,,b,,b,,b,,b,,b,,b,,b,,b
+
+,f,,f,,f,,f,,f,,,,,f,,f,,f,,f,,f,,f,,f,,f,,f,,f
