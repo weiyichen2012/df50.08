@@ -181,22 +181,8 @@ Invoking: repeat --name general-strike --time 1 --timeUnits days --command [ fix
 Invoking: repeat --name warn-starving --time 10 --timeUnits days --command [ warn-starving ]
 Invoking: warn-starving
 Invoking: warn-starving
-Class not in symbols.xml: 'dfhack_lua_viewscreen@DFHack': vtable = 0x7ffc607b3860
 Invoking: gui/launcher
-Invoking: gui/blueprint
-Invoking: gui/launcher
-Invoking: gui/quickfort
-Invoking: gui/launcher
-Invoking: gui/blueprint
-Invoking: gui/launcher
-Invoking: gui/quickfort
-Invoking: gui/launcher
-Invoking: gui/quickfort
-Invoking: warn-starving
-Invoking: warn-starving
-Invoking: gui/launcher
-Invoking: gui/quickfort
-Invoking: gui/launcher
+Class not in symbols.xml: 'dfhack_lua_viewscreen@DFHack': vtable = 0x7ffba4b93860
 Invoking: gui/quickfort
 Invoking: warn-starving
 Invoking: warn-starving
@@ -204,6 +190,49 @@ Invoking: warn-starving
 Invoking: warn-starving
 Invoking: warn-starving
 Invoking: warn-starving
+Loading script: dfhack-config/init/default.onMapUnload.init
+Invoking: script hack/init/onMapUnload.default.init
+Loading script: hack/init/onMapUnload.default.init
+Loading script: dfhack-config/init/onMapUnload.init
+Loading script: dfhack-config/init/default.onUnload.init
+Invoking: script hack/init/onUnload.default.init
+Loading script: hack/init/onUnload.default.init
+Loading script: dfhack-config/init/onUnload.init
+Loading script: dfhack-config/init/default.onLoad.init
+Invoking: script hack/init/onLoad.default.init
+Loading script: hack/init/onLoad.default.init
+Loading script: dfhack-config/init/onLoad.init
+Loading script: dfhack-config/init/default.onMapLoad.init
+Invoking: script hack/init/onMapLoad.default.init
+Loading script: hack/init/onMapLoad.default.init
+Loading script: dfhack-config/init/onMapLoad.init
+Loading script: dfhack-config/init/onMapLoad.control-panel-new-fort.init
+Invoking: on-new-fortress enable fix/protect-nicks
+Loading script: dfhack-config/init/onMapLoad.control-panel-repeats.init
+Invoking: repeat --name general-strike --time 1 --timeUnits days --command [ fix/general-strike -q ]
+Invoking: repeat --name warn-starving --time 10 --timeUnits days --command [ warn-starving ]
+Invoking: warn-starving
+Loading script: dfhack-config/init/default.onMapUnload.init
+Invoking: script hack/init/onMapUnload.default.init
+Loading script: hack/init/onMapUnload.default.init
+Loading script: dfhack-config/init/onMapUnload.init
+Loading script: dfhack-config/init/default.onUnload.init
+Invoking: script hack/init/onUnload.default.init
+Loading script: hack/init/onUnload.default.init
+Loading script: dfhack-config/init/onUnload.init
+Loading script: dfhack-config/init/default.onLoad.init
+Invoking: script hack/init/onLoad.default.init
+Loading script: hack/init/onLoad.default.init
+Loading script: dfhack-config/init/onLoad.init
+Loading script: dfhack-config/init/default.onMapLoad.init
+Invoking: script hack/init/onMapLoad.default.init
+Loading script: hack/init/onMapLoad.default.init
+Loading script: dfhack-config/init/onMapLoad.init
+Loading script: dfhack-config/init/onMapLoad.control-panel-new-fort.init
+Invoking: on-new-fortress enable fix/protect-nicks
+Loading script: dfhack-config/init/onMapLoad.control-panel-repeats.init
+Invoking: repeat --name general-strike --time 1 --timeUnits days --command [ fix/general-strike -q ]
+Invoking: repeat --name warn-starving --time 10 --timeUnits days --command [ warn-starving ]
 Invoking: warn-starving
 Loading script: dfhack-config/init/default.onMapUnload.init
 Invoking: script hack/init/onMapUnload.default.init
